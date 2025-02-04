@@ -42,7 +42,7 @@ I am currently open to new opportunities that challenge me and allow me to grow 
 ### Other Technologies  
 <div style="display: flex; gap: 10px;">
   <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/Assembler-8086-orange?style=flat-square" alt="Assembler"></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=C" alt="C"> </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" alt="C"> </a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>

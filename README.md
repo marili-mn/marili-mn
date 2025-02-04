@@ -8,7 +8,7 @@ I am a software developer based in Argentina. I have been actively contributing 
 
 ## Skills & Technologies
 
-py,java,flask,django,spring,hibernate,mysql,sqlite,postgres,html,css,js,bootstrap,react,azure,astro,bash,c,docker,figma,haskell,github,git,nodejs,postman,powershell,vscode,maven,linux,windows,obsidian,sublime,npm
+[![My Skills](https://skillicons.dev/icons?i=py,java,flask,django,spring,hibernate,mysql,sqlite,postgres,html,css,js,bootstrap,react,azure,astro,bash,c,docker,figma,haskell,github,git,nodejs,postman,powershell,vscode,maven,linux,windows,obsidian,sublime,npm&perline=8)](https://skillicons.dev)
 
 ## ASCII Art
 

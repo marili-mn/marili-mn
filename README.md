@@ -2,41 +2,53 @@
 
 I'm Nahuel Marcilli, a passionate Web Development Technician from Argentina, with a focus on creating efficient and impactful software solutions. I specialize in backend and full-stack development, leveraging my technical knowledge to solve real-world problems through clean code and scalable systems.
 
-## About Me
+## About Me  
 
-I have been actively contributing to projects on GitHub since 2021, particularly with Java, Python, and various frameworks like Django, Flask, and Spring Boot.I am currently open to new opportunities that challenge me and allow me to grow professionally.
+I have been actively contributing to projects on GitHub since 2021, particularly with Java, Python, and various frameworks like Django, Flask, and Spring Boot.  
+I am currently open to new opportunities that challenge me and allow me to grow professionally.
+
+---
 
 ## Skills & Technologies  
 
 ### Frontend  
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)  
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)  
-[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build/)  
+<div style="display: flex; gap: 10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React"></a>
+  <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" alt="Astro"></a>
+</div>
 
 ### Backend  
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)  
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)  
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)  
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)  
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)  
-[![Hibernate](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org/)  
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
+  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django"></a>
+  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"></a>
+  <a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate"></a>
+</div>
 
 ### Databases  
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)  
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)  
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
+  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></a>
+</div>
 
 ### Other Technologies  
-[![Assembler](https://img.shields.io/badge/Assembler-8086-orange?style=flat-square)](https://en.wikipedia.org/wiki/Assembly_language) 
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)  
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)  
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)  
-[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)  
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)  
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+<div style="display: flex; gap: 10px;">
+  <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/Assembler-8086-orange?style=flat-square" alt="Assembler"></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure"></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
+</div>
+
 
 ## ASCII Art
 

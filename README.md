@@ -1,64 +1,89 @@
-## Hi there! 👋
+# Software Architect | Web Engineering & Cybersecurity
 
-I'm Nahuel Marcilli, a passionate Web Development Technician from Argentina, with a focus on creating efficient and impactful software solutions. I specialize in backend and full-stack development, leveraging my technical knowledge to solve real-world problems through clean code and scalable systems.
+> *"Armored on the inside, intuitive on the outside."*
 
-## About Me  
+I am a Full-Stack Developer with a specialized background in **Cyberdefense**. I fuse secure architecture with functional creativity to build solutions that protect the business while delivering captivating user experiences. 
 
-I have been actively contributing to projects on GitHub since 2021, particularly with Java, Python, and various frameworks like Django, Flask, and Spring Boot.  
-I am currently open to new opportunities that challenge me and allow me to grow professionally.
+My approach applies robust engineering at every layer: integrating information security with interface design to achieve applications that are **Secure by Default**.
 
 ---
 
-## Skills & Technologies  
+### 🟢 Protocol: Initiate Interactive Console
 
-### Frontend  
-<div style="display: flex; gap: 10px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>
-  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React"></a>
-  <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" alt="Astro"></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"> </a> 
-</div> 
+I have embedded a **hidden Linux-like terminal** within my web portfolio to demonstrate my backend mindset.
 
-### Backend  
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
-  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
-  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django"></a>
-  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"></a>
-  <a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate"></a>
-</div>
+**MISSION OBJECTIVE:**
+1. 🌐 Access **[marili-mn.github.io/frontend-portfolio](https://marili-mn.github.io/frontend-portfolio/)**
+2. ⌨️ Press `Ctrl + Z` (or find the toggle in the footer).
+3. 🔓 **Decrypt the full profile.**
 
-### Databases  
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
-  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></a>
-</div>
+*(Don't forget to visit the **Lab Zone** for my continuous learning artifacts).*
 
-### Other Technologies  
-<div style="display: flex; gap: 10px;">
-  <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/Assembler-8086-orange?style=flat-square" alt="Assembler"></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" alt="C"> </a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
+---
+
+### 🛠 System Architecture & Arsenal
+
+**Core Backend & Security**  
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>
-  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure"></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"></a>
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>
 </div>
 
+**Frontend & UI (The Interface)**  
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React"></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"></a> 
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>
+</div>
 
-## ASCII Art
+**Data Persistence & Infrastructure**  
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
+</div>
 
+---
+
+### 📂 Latest Intelligence (Selected Work)
+
+#### **[CipherCard (Fintech R&D)](https://github.com/marili-mn/cipher-card)**
+> *Secure Software Architect*
+*   **Architecture:** Hexagonal Architecture isolating critical business logic.
+*   **Security:** Tokenization strategies for disposable payment methods.
+*   **Tech:** TypeScript, React, Secure Design Patterns.
+
+#### **[CreditBusters (Fintech)](https://github.com/marili-mn/CreditBusters)**
+> *Backend Security Engineer*
+*   **Focus:** Transactional integrity and fraud protection.
+*   **Hardening:** Public endpoint protection and SQL audit.
+*   **Tech:** Python, FastAPI, PostgreSQL, Compliance.
+
+---
+
+### ⚡ Status Report
+
+```yaml
+User:           "Nahuel Marcilli"
+Role:           "Backend Developer & Security Specialist"
+Location:       "Argentina (GMT-3)"
+Education:      ["Cyberdefense Degree (Ongoing)", "Web Development Technician"]
+Focus:          ["OWASP Top 10", "Cloud Hardening", "Scalable Systems"]
+Signature:      "Blindadas por dentro, intuitivas por fuera."
 ```
-                       _ _ _                       
-  _ __ ___   __ _ _ __(_) (_)      _ __ ___  _ __  
- | '_ ` _ \ / _` | '__| | | |_____| '_ ` _ \| '_ \ 
- | | | | | | (_| | |  | | | |_____| | | | | | | | |
- |_| |_| |_|\__,_|_|  |_|_|_|     |_| |_| |_|_| |_|
-                                                   
-```
+
+### 📫 Uplink
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/nahuel-marcilli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nahuemarcilli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://marili-mn.github.io/frontend-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Interactive-702570?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+</div>

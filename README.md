@@ -1,89 +1,124 @@
-# Software Architect | Web Engineering & Cybersecurity
+<div align="center">
+
+```text
+                       _ _ _                       
+  _ __ ___   __ _ _ __(_) (_)      _ __ ___  _ __  
+ | '_ ` _ \ / _` | '__| | | |_____| '_ ` _ \| '_ \ 
+ | | | | | | (_| | |  | | | |_____| | | | | | | | |
+ |_| |_| |_|\__,_|_|  |_|_|_|     |_| |_| |_|_| |_|
+                                                   
+```
+
+### 🛡️ Software Architect & Cybersecurity Specialist 🛡️
+**Backend Focused | Secure by Design | Node.js & AWS**
+
+<a href="https://marili-mn.github.io/frontend-portfolio/">
+  <img src="https://img.shields.io/badge/System_Status-OPERATIONAL-success?style=for-the-badge&logo=linux" alt="System Status">
+</a>
+<a href="https://linkedin.com/in/nahuel-marcilli">
+  <img src="https://img.shields.io/badge/Network-Uplink_Established-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+<br/>
 
 > *"Armored on the inside, intuitive on the outside."*
 
-I am a Full-Stack Developer with a specialized background in **Cyberdefense**. I fuse secure architecture with functional creativity to build solutions that protect the business while delivering captivating user experiences. 
-
-My approach applies robust engineering at every layer: integrating information security with interface design to achieve applications that are **Secure by Default**.
-
----
-
-### 🟢 Protocol: Initiate Interactive Console
-
-I have embedded a **hidden Linux-like terminal** within my web portfolio to demonstrate my backend mindset.
-
-**MISSION OBJECTIVE:**
-1. 🌐 Access **[marili-mn.github.io/frontend-portfolio](https://marili-mn.github.io/frontend-portfolio/)**
-2. ⌨️ Press `Ctrl + Z` (or find the toggle in the footer).
-3. 🔓 **Decrypt the full profile.**
-
-*(Don't forget to visit the **Lab Zone** for my continuous learning artifacts).*
-
----
-
-### 🛠 System Architecture & Arsenal
-
-**Core Backend & Security**  
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a>
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"></a>
-  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>
-</div>
-
-**Frontend & UI (The Interface)**  
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"></a>
-  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React"></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"></a> 
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>
-</div>
-
-**Data Persistence & Infrastructure**  
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
 </div>
 
 ---
 
-### 📂 Latest Intelligence (Selected Work)
+### 👨‍💻 `user@nahuel:~$ whoami`
 
-#### **[CipherCard (Fintech R&D)](https://github.com/marili-mn/cipher-card)**
-> *Secure Software Architect*
-*   **Architecture:** Hexagonal Architecture isolating critical business logic.
-*   **Security:** Tokenization strategies for disposable payment methods.
-*   **Tech:** TypeScript, React, Secure Design Patterns.
+I am a **Software Engineer** with a specialized background in **Cyberdefense**. Unlike traditional developers, my formation starts from the **server-side**, focusing on the **Secure Software Development Life Cycle (SDLC)**.
 
-#### **[CreditBusters (Fintech)](https://github.com/marili-mn/CreditBusters)**
-> *Backend Security Engineer*
-*   **Focus:** Transactional integrity and fraud protection.
-*   **Hardening:** Public endpoint protection and SQL audit.
-*   **Tech:** Python, FastAPI, PostgreSQL, Compliance.
+I fuse secure architecture with functional creativity to build solutions that protect the business while delivering captivating user experiences.
+
+- 🔭 I’m currently working on **High-Integrity Financial Systems**.
+- 🌱 I’m currently learning **Advanced Cloud Hardening & Rust**.
+- ⚡ Fun fact: **I read hex dumps for breakfast.**
 
 ---
 
-### ⚡ Status Report
+### 🚀 **THE INTERACTIVE PROTOCOL**
+
+<div align="center" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px; background-color: #0d1117;">
+
+**⚠️ ACCESS GRANTED: HIDDEN TERMINAL DETECTED ⚠️**
+
+I have embedded a fully functional **Linux-like console** within my portfolio.
+This is the best way to understand my backend mindset.
+
+| STEP | INSTRUCTION | ACTION |
+| :---: | :--- | :--- |
+| **01** | **Target URL** | [**marili-mn.github.io/frontend-portfolio**](https://marili-mn.github.io/frontend-portfolio/) |
+| **02** | **Trigger** | Press `Ctrl + Z` (or use the footer toggle) |
+| **03** | **Execute** | Type `help` to explore the system |
+
+</div>
+
+---
+
+### 🛠️ **System Kernel & Arsenal**
+
+<div align="center">
+
+**CORE INFRASTRUCTURE & BACKEND**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,py,java,c,bash,linux,docker,aws,fastapi,django,spring" />
+</a>
+
+<br/><br/>
+
+**INTERFACE LAYER (Frontend Awareness)**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,bootstrap,html,css" />
+</a>
+
+<br/><br/>
+
+**DATA PERSISTENCE & TOOLS**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongo,git,postman" />
+</a>
+
+</div>
+
+---
+
+### 📂 **Latest Intelligence (Selected Work)**
+
+| Project | Role | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[CipherCard (Fintech)](https://github.com/marili-mn/cipher-card)** | 🏗️ **Architect** | `React` `TypeScript` `Hexagonal Arch` | 🟢 Active |
+| **[CreditBusters](https://github.com/marili-mn/CreditBusters)** | 🛡️ **Security Eng.** | `Python` `FastAPI` `PostgreSQL` | 🟡 Maintenance |
+| **[Portfolio Console](https://github.com/marili-mn/frontend-portfolio)** | 👨‍💻 **Creator** | `Vanilla JS` `WebComponents` `SDLC` | 🟢 Live |
+
+---
+
+### 📊 **Data Analytics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marili-mn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marili-mn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
+</div>
+
+---
+
+<div align="center">
 
 ```yaml
-User:           "Nahuel Marcilli"
-Role:           "Backend Developer & Security Specialist"
-Location:       "Argentina (GMT-3)"
-Education:      ["Cyberdefense Degree (Ongoing)", "Web Development Technician"]
-Focus:          ["OWASP Top 10", "Cloud Hardening", "Scalable Systems"]
-Signature:      "Blindadas por dentro, intuitivas por fuera."
+System_Log:
+  User: "Nahuel Marcilli"
+  Role: "Backend Developer"
+  Location: "Argentina (GMT-3)"
+  Msg: "Ready to deploy."
 ```
 
-### 📫 Uplink
+<a href="mailto:nahuemarcilli@gmail.com">
+  <img src="https://img.shields.io/badge/Encrypted_Transmission-SEND_EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/nahuel-marcilli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:nahuemarcilli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://marili-mn.github.io/frontend-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Interactive-702570?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
 </div>

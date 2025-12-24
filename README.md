@@ -2,7 +2,7 @@
   
   <!-- TYPING EFFECT: INDUSTRIAL STYLE (Monochrome) -->
   <a href="https://marili-mn.github.io/frontend-portfolio/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=32&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEERING;CYBERDEFENSE+ARCHITECTURE;SECURE+SYSTEMS+DESIGN;FULL+STACK+DEVELOPMENT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEERING;CYBERDEFENSE+ARCHITECTURE;SECURE+SYSTEMS+DESIGN;FULL+STACK+DEVELOPMENT" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -53,17 +53,34 @@ To truly evaluate my technical capabilities, I invite you to bypass the GUI and 
 
 ### 🏗️ **Industrial Tooling & Tech Stack**
 
+Matches `src/data/skillsData.js` registry.
+
 <div align="center">
 
-| **CORE ENGINEERING** | **SECURITY & OPS** | **INTERFACE LAYER** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,java,c,nodejs&theme=light" /> | <img src="https://skillicons.dev/icons?i=linux,bash,docker,aws&theme=light" /> | <img src="https://skillicons.dev/icons?i=ts,react,nextjs,bootstrap&theme=light" /> |
-| *Logic & Systems* | *Infrastructure* | *Visuals* |
+| **BACKEND & API SYSTEMS** |
+| :---: |
+| <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,fastapi,flask,java,spring,php&theme=light" /> |
+| *Runtime, Frameworks & Legacy Support* |
 
-| **FRAMEWORKS** | **PERSISTENCE** | **UTILITIES** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=django,fastapi,spring,express&theme=light" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongo&theme=light" /> | <img src="https://skillicons.dev/icons?i=git,postman,vim,vscode&theme=light" /> |
-| *Architecture* | *Data Integrity* | *Workflow* |
+| **FRONTEND ARCHITECTURE** |
+| :---: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nextjs&theme=light" /> |
+| *Visual Layer & Logic* |
+
+| **DATA & CLOUD INFRASTRUCTURE** |
+| :---: |
+| <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,azure&theme=light" /> |
+| *Persistence, Containerization & Cloud* |
+
+| **OS, SECURITY & LOW LEVEL** |
+| :---: |
+| <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell,c,cpp&theme=light" /> <img src="https://img.shields.io/badge/ASM-8086-black?style=flat-square" alt="Assembler" /> |
+| *Operating Systems, Shells & Hard Engineering* |
+
+| **DESIGN & UTILITIES** |
+| :---: |
+| <img src="https://skillicons.dev/icons?i=git,postman,vscode,figma,ps,ai&theme=light" /> |
+| *Workflow, Testing & Creative Suite* |
 
 </div>
 
@@ -82,8 +99,8 @@ To truly evaluate my technical capabilities, I invite you to bypass the GUI and 
 ### 📉 **Telemetry & Analytics**
 
 <div align="center">
-  <!-- STATS: Custom High Contrast Noir Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=marili-mn&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true" height="160" alt="stats" />
+  <!-- STATS: Fixed High Contrast Noir Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=marili-mn&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true&count_private=true" height="160" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marili-mn&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&hide_border=true" height="160" alt="languages" />
 </div>
 

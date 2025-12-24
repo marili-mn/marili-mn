@@ -53,33 +53,31 @@ To truly evaluate my technical capabilities, I invite you to bypass the GUI and 
 
 ### 🏗️ **Industrial Tooling & Tech Stack**
 
-Matches `src/data/skillsData.js` registry.
-
 <div align="center">
 
 | **BACKEND & API SYSTEMS** |
 | :---: |
-| <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,fastapi,flask,java,spring,php&theme=light" /> |
+| <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="40"/></a> <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=light" width="40"/></a> <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=light" width="40"/></a> <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=light" width="40"/></a> <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="40"/></a> <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask&theme=light" width="40"/></a> <a href="https://dev.java/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=light" width="40"/></a> <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=light" width="40"/></a> <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=light" width="40"/></a> |
 | *Runtime, Frameworks & Legacy Support* |
 
 | **FRONTEND ARCHITECTURE** |
 | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nextjs&theme=light" /> |
+| <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=light" width="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=light" width="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=light" width="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=light" width="40"/></a> <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" width="40"/></a> <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=light" width="40"/></a> <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="40"/></a> |
 | *Visual Layer & Logic* |
 
 | **DATA & CLOUD INFRASTRUCTURE** |
 | :---: |
-| <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,azure&theme=light" /> |
+| <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="40"/></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="40"/></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="40"/></a> <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=light" width="40"/></a> <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=light" width="40"/></a> <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=light" width="40"/></a> |
 | *Persistence, Containerization & Cloud* |
 
 | **OS, SECURITY & LOW LEVEL** |
 | :---: |
-| <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell,c,cpp&theme=light" /> <img src="https://img.shields.io/badge/ASM-8086-black?style=flat-square" alt="Assembler" /> |
+| <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=light" width="40"/></a> <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali&theme=light" width="40"/></a> <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu&theme=light" width="40"/></a> <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows&theme=light" width="40"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=light" width="40"/></a> <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell&theme=light" width="40"/></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=light" width="40"/></a> <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=light" width="40"/></a> |
 | *Operating Systems, Shells & Hard Engineering* |
 
 | **DESIGN & UTILITIES** |
 | :---: |
-| <img src="https://skillicons.dev/icons?i=git,postman,vscode,figma,ps,ai&theme=light" /> |
+| <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=light" width="40"/></a> <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=light" width="40"/></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=light" width="40"/></a> <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=light" width="40"/></a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps&theme=light" width="40"/></a> <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai&theme=light" width="40"/></a> |
 | *Workflow, Testing & Creative Suite* |
 
 </div>
@@ -96,12 +94,11 @@ Matches `src/data/skillsData.js` registry.
 
 ---
 
-### 📉 **Telemetry & Analytics**
+### 📉 **Network Traffic (Contribution Graph)**
 
 <div align="center">
-  <!-- STATS: Fixed High Contrast Noir Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=marili-mn&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marili-mn&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&hide_border=true" height="160" alt="languages" />
+  <!-- ISOMETRIC ACTIVITY GRAPH: INDUSTRIAL THEME -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marili-mn&bg_color=0d1117&color=ffffff&line=5e5e5e&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
